@@ -1,0 +1,85 @@
+body {
+    background-color: #dfdad4;
+    color: #202020;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 700px;
+    width: 96%;
+    margin: 10px auto;
+
+}
+
+.publisher, .bbclink {
+    margin: 0;
+    line-height: 1;
+}
+
+.publisher {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.bbclink a {
+    color: #4f4f4f;
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+h1, h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #202020;
+    font-size: 36px;
+
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+a, a:visited, a:active {
+    color: #382920;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: dashed;
+}
+
+.linkki {
+    font-style: italic;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.date {
+    font-style: italic;
+    color: #4f4f4f;
+    font-size: 13px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+footer {
+    font-style: italic;
+
+}
+
+footer a, footer a:visited, a:active {
+    color: #382920;
+    font-weight: 900;
+}
+
+
+
+
+
+
